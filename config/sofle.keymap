@@ -61,7 +61,7 @@
             bindings = <
 &gresc     &none  &none  &none  &none  &none                        &none  &none  &none      &none    &none     &none
 &kp TAB    &kp Q  &kp W  &kp F  &kp P  &kp B                        &kp J  &kp L  &kp U      &kp Y    &kp SEMI  &none
-&kp LCTRL  &kp A  &kp R  &kp S  &kp T  &kp G                        &kp M  &kp N  &kp E      &kp I    &kp O     &none
+&kp LCTRL  &kp A  &kp R  &kp S  &kp T  &kp G                        &kp M  &kp N  &kp E      &kp I    &kp O     &kp SINGLE_QUOTE
 &kp LSHFT  &kp Z  &kp X  &kp C  &kp D  &kp V  &none        &none    &kp K  &kp H  &kp COMMA  &kp DOT  &kp FSLH  &none
                   &none  &none  &none  &mo 1  &kp SPACE    &kp RET  &mo 2  &none  &none      &none
             >;
